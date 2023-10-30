@@ -1,0 +1,2 @@
+# linuxproject
+practice scripts
