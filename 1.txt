@@ -1,0 +1,5 @@
+cd  change directory
+cd . current directory
+cd .. one step back directory
+mkdir make directory
+ 
