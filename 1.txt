@@ -1,5 +1,11 @@
 cd  change directory
 cd . current directory
 cd .. one step back directory
-mkdir make directory
- 
+mkdir  make directory
+touch  make file
+nano make file and edit
+vi   make file and edit
+explorer.exe .   physical directory
+i dont have enouf time to do your work i have more work 
+i have more work
+
